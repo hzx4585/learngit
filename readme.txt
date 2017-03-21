@@ -3,4 +3,3 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a nre branch is quick and simple
-A new line 
